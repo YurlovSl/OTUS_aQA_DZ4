@@ -70,3 +70,41 @@
 2024-10-09 10:59:16,586 INFO CheckPictureTest [main] Находим селектор для открытия картинки
 2024-10-09 10:59:16,609 INFO CheckPictureTest [main] Нажимаем на картинку
 2024-10-09 10:59:16,721 INFO CheckPictureTest [main] Проверка что картинка открылась в модальном окне
+2024-10-09 15:59:47,116 INFO CheckPictureTest [main] Переходим по ссылке
+2024-10-09 15:59:57,334 INFO CheckPictureTest [main] Переходим по ссылке
+2024-10-09 15:59:59,836 INFO CheckPictureTest [main] Находим селектор для открытия картинки
+2024-10-09 15:59:59,861 INFO CheckPictureTest [main] Нажимаем на картинку
+2024-10-09 15:59:59,944 INFO CheckPictureTest [main] Проверка что картинка открылась в модальном окне
+2024-10-09 16:24:52,307 INFO CheckPictureTest [main] Переходим по ссылке
+2024-10-09 16:24:57,336 INFO CheckPictureTest [main] Находим селектор для открытия картинки
+2024-10-09 16:24:57,357 INFO CheckPictureTest [main] Нажимаем на картинку
+2024-10-09 16:24:57,447 INFO CheckPictureTest [main] Проверка что картинка открылась в модальном окне
+2024-10-09 16:25:16,772 INFO CheckPictureTest [main] Переходим по ссылке
+2024-10-09 16:48:14,513 INFO CheckPictureTest [main] Переходим по ссылке
+2024-10-09 16:53:46,187 INFO CheckPictureTest [main] Переходим по ссылке
+2024-10-09 17:01:18,495 INFO CheckPictureTest [main] Переходим по ссылке
+2024-10-09 17:01:30,112 INFO CheckPictureTest [main] Переходим по ссылке
+2024-10-09 17:01:32,832 INFO CheckPictureTest [main] Находим селектор для открытия картинки
+2024-10-09 17:01:32,857 INFO CheckPictureTest [main] Нажимаем на картинку
+2024-10-09 17:01:32,992 INFO CheckPictureTest [main] Проверка что картинка открылась в модальном окне
+2024-10-09 17:01:52,347 INFO CheckPictureTest [main] Переходим по ссылке
+2024-10-09 17:08:02,291 INFO CheckPictureTest [main] Переходим по ссылке
+2024-10-09 17:08:07,025 INFO CheckPictureTest [main] Находим селектор для открытия картинки
+2024-10-09 17:08:07,039 INFO CheckPictureTest [main] Нажимаем на картинку
+2024-10-09 17:08:07,109 INFO CheckPictureTest [main] Проверка что картинка открылась в модальном окне
+2024-10-09 17:13:55,450 INFO CheckPictureTest [main] Переходим по ссылке
+2024-10-09 17:13:58,236 INFO CheckPictureTest [main] Находим селектор для открытия картинки
+2024-10-09 17:13:58,251 INFO CheckPictureTest [main] Нажимаем на картинку
+2024-10-09 17:13:58,338 INFO CheckPictureTest [main] Проверка что картинка открылась в модальном окне
+2024-10-09 17:14:16,167 INFO CheckPictureTest [main] Переходим по ссылке
+2024-10-09 17:14:18,615 INFO CheckPictureTest [main] Находим селектор для открытия картинки
+2024-10-09 17:14:18,637 INFO CheckPictureTest [main] Нажимаем на картинку
+2024-10-09 17:14:18,757 INFO CheckPictureTest [main] Проверка что картинка открылась в модальном окне
+2024-10-09 17:14:31,500 INFO CheckPictureTest [main] Переходим по ссылке
+2024-10-09 17:14:34,501 INFO CheckPictureTest [main] Находим селектор для открытия картинки
+2024-10-09 17:14:34,527 INFO CheckPictureTest [main] Нажимаем на картинку
+2024-10-09 17:14:34,866 INFO CheckPictureTest [main] Проверка что картинка открылась в модальном окне
+2024-10-09 17:16:44,138 INFO CheckPictureTest [main] Переходим по ссылке
+2024-10-09 17:16:46,756 INFO CheckPictureTest [main] Находим селектор для открытия картинки
+2024-10-09 17:16:46,770 INFO CheckPictureTest [main] Нажимаем на картинку
+2024-10-09 17:16:46,848 INFO CheckPictureTest [main] Проверка что картинка открылась в модальном окне
