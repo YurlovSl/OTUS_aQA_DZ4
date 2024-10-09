@@ -1,96 +1,72 @@
-2024-09-23 14:52:13,732 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-23 14:52:16,937 INFO SeartTitileResultTest [main] Находим селектор для ввода текста
-2024-09-23 14:52:17,061 INFO SeartTitileResultTest [main] Находим селектор для кнопки поиска
-2024-09-23 14:52:17,489 INFO SeartTitileResultTest [main] Находим селектор для первой ссылки
-2024-09-23 14:56:14,214 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-23 14:56:19,593 INFO SeartTitileResultTest [main] Находим селектор для ввода текста
-2024-09-23 14:56:19,705 INFO SeartTitileResultTest [main] Находим селектор для кнопки поиска
-2024-09-23 14:56:22,636 INFO SeartTitileResultTest [main] Находим селектор для первой ссылки
-2024-09-23 14:56:52,796 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-23 14:56:56,930 INFO SeartTitileResultTest [main] Находим селектор для ввода текста
-2024-09-23 14:56:57,064 INFO SeartTitileResultTest [main] Находим селектор для кнопки поиска
-2024-09-23 14:56:59,187 INFO SeartTitileResultTest [main] Находим селектор для первой ссылки
-2024-09-23 14:57:35,927 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-23 14:57:38,946 INFO SeartTitileResultTest [main] Находим селектор для ввода текста
-2024-09-23 14:57:39,072 INFO SeartTitileResultTest [main] Находим селектор для кнопки поиска
-2024-09-23 14:57:41,566 INFO SeartTitileResultTest [main] Находим селектор для первой ссылки
-2024-09-24 08:12:47,579 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 08:13:11,867 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 08:23:28,283 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 08:24:14,057 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 08:26:23,935 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 08:26:26,014 INFO SeartTitileResultTest [main] Находим селектор для открытия картинки
-2024-09-24 08:26:26,034 INFO SeartTitileResultTest [main] Нажимаем на картинку
-2024-09-24 08:26:26,219 INFO SeartTitileResultTest [main] Проверка что картинка открылась в модальном окне
-2024-09-24 08:31:41,577 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 08:31:47,192 INFO SeartTitileResultTest [main] Находим селектор для открытия картинки
-2024-09-24 09:18:27,230 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 09:18:33,285 INFO SeartTitileResultTest [main] Находим селектор для открытия картинки
-2024-09-24 09:19:06,943 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 09:19:12,725 INFO SeartTitileResultTest [main] Находим селектор для открытия картинки
-2024-09-24 09:21:01,991 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 09:21:07,865 INFO SeartTitileResultTest [main] Находим селектор для открытия картинки
-2024-09-24 09:27:11,258 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 09:27:18,157 INFO SeartTitileResultTest [main] Находим селектор для Входа
-2024-09-24 09:27:18,313 INFO SeartTitileResultTest [main] Находим селектор поля email
-2024-09-24 09:27:18,386 INFO SeartTitileResultTest [main] Заполняем поле email
-2024-09-24 09:31:40,152 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 09:31:54,763 INFO SeartTitileResultTest [main] Находим селектор для Входа
-2024-09-24 09:31:54,869 INFO SeartTitileResultTest [main] Находим селектор поля email
-2024-09-24 09:31:54,891 INFO SeartTitileResultTest [main] Заполняем поле email
-2024-09-24 09:34:37,697 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 09:35:00,948 INFO SeartTitileResultTest [main] Находим селектор для Входа
-2024-09-24 09:35:01,043 INFO SeartTitileResultTest [main] Находим селектор поля email
-2024-09-24 09:35:01,061 INFO SeartTitileResultTest [main] Заполняем поле email
-2024-09-24 09:36:03,833 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 09:36:09,677 INFO SeartTitileResultTest [main] Находим селектор для Входа
-2024-09-24 09:36:09,880 INFO SeartTitileResultTest [main] Находим селектор поля email
-2024-09-24 09:36:10,026 INFO SeartTitileResultTest [main] Заполняем поле email
-2024-09-24 09:36:50,931 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 09:36:56,600 INFO SeartTitileResultTest [main] Находим селектор для Входа
-2024-09-24 09:36:56,801 INFO SeartTitileResultTest [main] Находим селектор поля email
-2024-09-24 09:36:56,873 INFO SeartTitileResultTest [main] Заполняем поле email
-2024-09-24 09:38:14,164 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 09:38:18,961 INFO SeartTitileResultTest [main] Находим селектор для Входа
-2024-09-24 09:38:19,154 INFO SeartTitileResultTest [main] Находим селектор поля email
-2024-09-24 09:38:19,179 INFO SeartTitileResultTest [main] Заполняем поле email
-2024-09-24 09:38:53,162 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 09:38:57,659 INFO SeartTitileResultTest [main] Находим селектор для Входа
-2024-09-24 09:38:57,888 INFO SeartTitileResultTest [main] Находим селектор поля email
-2024-09-24 09:38:57,963 INFO SeartTitileResultTest [main] Заполняем поле email
-2024-09-24 09:41:32,649 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 09:41:38,723 INFO SeartTitileResultTest [main] Находим селектор для Входа
-2024-09-24 09:41:39,125 INFO SeartTitileResultTest [main] Находим селектор поля email
-2024-09-24 09:41:39,149 INFO SeartTitileResultTest [main] Заполняем поле email
-2024-09-24 09:44:41,467 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 09:44:48,789 INFO SeartTitileResultTest [main] Находим селектор для Входа
-2024-09-24 09:44:49,317 INFO SeartTitileResultTest [main] Находим селектор поля email
-2024-09-24 09:44:49,345 INFO SeartTitileResultTest [main] Заполняем поле email
-2024-09-24 09:47:15,523 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 09:47:21,293 INFO SeartTitileResultTest [main] Находим селектор для Входа
-2024-09-24 09:47:21,478 INFO SeartTitileResultTest [main] Находим селектор поля email
-2024-09-24 09:47:21,582 INFO SeartTitileResultTest [main] Заполняем поле email
-2024-09-24 09:56:11,514 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 09:56:17,834 INFO SeartTitileResultTest [main] Находим селектор для Входа
-2024-09-24 09:56:18,159 INFO SeartTitileResultTest [main] Находим селектор поля email
-2024-09-24 09:56:18,178 INFO SeartTitileResultTest [main] Заполняем поле email
-2024-09-24 09:57:15,742 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 09:57:21,446 INFO SeartTitileResultTest [main] Находим селектор для Входа
-2024-09-24 09:57:21,666 INFO SeartTitileResultTest [main] Находим селектор поля email
-2024-09-24 09:57:21,736 INFO SeartTitileResultTest [main] Заполняем поле email
-2024-09-24 09:57:45,833 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 09:57:51,871 INFO SeartTitileResultTest [main] Находим селектор для Входа
-2024-09-24 09:57:52,054 INFO SeartTitileResultTest [main] Находим селектор поля email
-2024-09-24 09:57:52,087 INFO SeartTitileResultTest [main] Заполняем поле email
-2024-09-24 09:58:00,676 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 09:58:06,876 INFO SeartTitileResultTest [main] Находим селектор для Входа
-2024-09-24 09:58:07,057 INFO SeartTitileResultTest [main] Находим селектор поля email
-2024-09-24 09:58:07,206 INFO SeartTitileResultTest [main] Заполняем поле email
-2024-09-24 10:02:35,118 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 10:02:40,691 INFO SeartTitileResultTest [main] Находим селектор для Входа
-2024-09-24 10:02:40,867 INFO SeartTitileResultTest [main] Находим селектор поля email
-2024-09-24 10:02:40,887 INFO SeartTitileResultTest [main] Заполняем поле email
-2024-09-24 10:03:08,399 INFO SeartTitileResultTest [main] Переходим по ссылке
-2024-09-24 10:03:14,580 INFO SeartTitileResultTest [main] Находим селектор для Входа
-2024-09-24 10:03:14,700 INFO SeartTitileResultTest [main] Находим селектор поля email
-2024-09-24 10:03:19,728 INFO SeartTitileResultTest [main] Заполняем поле email
+2024-10-09 08:40:10,810 INFO SeartTitileResultTest [main] Переходим по ссылке
+2024-10-09 08:40:17,826 INFO SeartTitileResultTest [main] Находим селектор для Входа
+2024-10-09 08:40:18,169 INFO SeartTitileResultTest [main] Находим локатор поля email
+2024-10-09 08:40:23,210 INFO SeartTitileResultTest [main] Заполняем поле email
+2024-10-09 08:40:25,687 INFO SeartTitileResultTest [main] Переходим по ссылке
+2024-10-09 08:40:31,314 INFO SeartTitileResultTest [main] Находим селектор для открытия картинки
+2024-10-09 08:40:31,329 INFO SeartTitileResultTest [main] Нажимаем на картинку
+2024-10-09 08:40:31,405 INFO SeartTitileResultTest [main] Проверка что картинка открылась в модальном окне
+2024-10-09 08:40:32,514 INFO SeartTitileResultTest [main] Переходим по ссылке
+2024-10-09 08:40:38,751 INFO SeartTitileResultTest [main] Находим селектор для ввода текста
+2024-10-09 08:40:38,845 INFO SeartTitileResultTest [main] Находим селектор для кнопки поиска
+2024-10-09 08:40:41,525 INFO SeartTitileResultTest [main] Находим селектор для первой ссылки
+2024-10-09 08:43:41,515 INFO SeartTitileResultTest [main] Переходим по ссылке
+2024-10-09 08:43:46,325 INFO SeartTitileResultTest [main] Находим селектор для Входа
+2024-10-09 08:43:46,593 INFO SeartTitileResultTest [main] Находим локатор поля email
+2024-10-09 08:43:51,612 INFO SeartTitileResultTest [main] Заполняем поле email
+2024-10-09 08:43:53,739 INFO SeartTitileResultTest [main] Переходим по ссылке
+2024-10-09 08:43:55,910 INFO SeartTitileResultTest [main] Находим селектор для открытия картинки
+2024-10-09 08:43:55,935 INFO SeartTitileResultTest [main] Нажимаем на картинку
+2024-10-09 08:43:56,026 INFO SeartTitileResultTest [main] Проверка что картинка открылась в модальном окне
+2024-10-09 08:43:57,145 INFO SeartTitileResultTest [main] Переходим по ссылке
+2024-10-09 08:44:00,368 INFO SeartTitileResultTest [main] Находим селектор для ввода текста
+2024-10-09 08:44:00,473 INFO SeartTitileResultTest [main] Находим селектор для кнопки поиска
+2024-10-09 08:44:02,355 INFO SeartTitileResultTest [main] Находим селектор для первой ссылки
+2024-10-09 08:46:02,402 INFO SeartTitileResultTest [main] Переходим по ссылке
+2024-10-09 08:46:09,136 INFO SeartTitileResultTest [main] Находим селектор для Входа
+2024-10-09 08:46:09,757 INFO SeartTitileResultTest [main] Находим локатор поля email
+2024-10-09 08:46:14,782 INFO SeartTitileResultTest [main] Заполняем поле email
+2024-10-09 08:46:16,325 INFO SeartTitileResultTest [main] Переходим по ссылке
+2024-10-09 08:46:18,847 INFO SeartTitileResultTest [main] Находим селектор для открытия картинки
+2024-10-09 08:46:18,868 INFO SeartTitileResultTest [main] Нажимаем на картинку
+2024-10-09 08:46:19,116 INFO SeartTitileResultTest [main] Проверка что картинка открылась в модальном окне
+2024-10-09 08:46:20,179 INFO SeartTitileResultTest [main] Переходим по ссылке
+2024-10-09 08:46:23,612 INFO SeartTitileResultTest [main] Находим селектор для ввода текста
+2024-10-09 08:46:23,724 INFO SeartTitileResultTest [main] Находим селектор для кнопки поиска
+2024-10-09 08:46:26,624 INFO SeartTitileResultTest [main] Находим селектор для первой ссылки
+2024-10-09 09:43:03,666 INFO SeartTitileResultTest [main] Переходим по ссылке
+2024-10-09 09:43:06,457 INFO SeartTitileResultTest [main] Находим селектор для открытия картинки
+2024-10-09 09:43:06,477 INFO SeartTitileResultTest [main] Нажимаем на картинку
+2024-10-09 09:43:06,574 INFO SeartTitileResultTest [main] Проверка что картинка открылась в модальном окне
+2024-10-09 09:43:50,661 INFO SeartTitileResultTest [main] Переходим по ссылке
+2024-10-09 09:43:52,207 INFO SeartTitileResultTest [main] Находим селектор для открытия картинки
+2024-10-09 09:43:52,223 INFO SeartTitileResultTest [main] Нажимаем на картинку
+2024-10-09 09:43:52,439 INFO SeartTitileResultTest [main] Проверка что картинка открылась в модальном окне
+2024-10-09 09:44:04,180 INFO SeartTitileResultTest [main] Переходим по ссылке
+2024-10-09 09:44:06,385 INFO SeartTitileResultTest [main] Находим селектор для открытия картинки
+2024-10-09 09:44:06,412 INFO SeartTitileResultTest [main] Нажимаем на картинку
+2024-10-09 09:44:06,611 INFO SeartTitileResultTest [main] Проверка что картинка открылась в модальном окне
+2024-10-09 10:36:44,874 INFO SeartTitileResultTest [main] Переходим по ссылке
+2024-10-09 10:36:51,166 INFO SeartTitileResultTest [main] Находим селектор для Входа
+2024-10-09 10:36:51,496 INFO SeartTitileResultTest [main] Находим локатор поля email
+2024-10-09 10:36:56,521 INFO SeartTitileResultTest [main] Заполняем поле email
+2024-10-09 10:36:57,744 INFO SeartTitileResultTest [main] Переходим по ссылке
+2024-10-09 10:37:00,031 INFO SeartTitileResultTest [main] Находим селектор для открытия картинки
+2024-10-09 10:37:00,972 INFO SeartTitileResultTest [main] Переходим по ссылке
+2024-10-09 10:37:06,622 INFO SeartTitileResultTest [main] Находим селектор для ввода текста
+2024-10-09 10:37:06,721 INFO SeartTitileResultTest [main] Находим селектор для кнопки поиска
+2024-10-09 10:37:09,909 INFO SeartTitileResultTest [main] Находим селектор для первой ссылки
+2024-10-09 10:38:24,391 INFO CheckPictureTest [main] Переходим по ссылке
+2024-10-09 10:38:29,082 INFO CheckPictureTest [main] Находим селектор для открытия картинки
+2024-10-09 10:38:29,096 INFO CheckPictureTest [main] Нажимаем на картинку
+2024-10-09 10:38:29,192 INFO CheckPictureTest [main] Проверка что картинка открылась в модальном окне
+2024-10-09 10:39:28,175 INFO CheckPictureTest [main] Переходим по ссылке
+2024-10-09 10:39:30,477 INFO CheckPictureTest [main] Находим селектор для открытия картинки
+2024-10-09 10:39:30,490 INFO CheckPictureTest [main] Нажимаем на картинку
+2024-10-09 10:39:30,575 INFO CheckPictureTest [main] Проверка что картинка открылась в модальном окне
+2024-10-09 10:58:33,683 INFO CheckPictureTest [main] Переходим по ссылке
+2024-10-09 10:58:38,117 INFO CheckPictureTest [main] Находим селектор для открытия картинки
+2024-10-09 10:59:13,720 INFO CheckPictureTest [main] Переходим по ссылке
+2024-10-09 10:59:16,586 INFO CheckPictureTest [main] Находим селектор для открытия картинки
+2024-10-09 10:59:16,609 INFO CheckPictureTest [main] Нажимаем на картинку
+2024-10-09 10:59:16,721 INFO CheckPictureTest [main] Проверка что картинка открылась в модальном окне
