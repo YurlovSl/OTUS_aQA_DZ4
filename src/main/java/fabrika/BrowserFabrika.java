@@ -2,6 +2,7 @@ package fabrika;
 
 
 import enums.ArgumentBrowser;
+import exeptions.BrowserNotFoundEx;
 import fabrika.settings.SettingsChromeDriver;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -27,7 +28,7 @@ public class BrowserFabrika implements IbrowserFabrika {
                 return new FirefoxDriver();
             }
         }
-        return null;
+        throw new BrowserNotFoundEx(typeBrowserFromProperty);
     }
 
 
