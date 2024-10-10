@@ -22,25 +22,19 @@ public class CheckPictureTest {
         WebDriverManager.chromedriver().setup();
     }
 
-//    @BeforeEach
-//    public void startDriver() {
-//        ChromeOptions options = new ChromeOptions();
-//        options.addArguments("--kiosk");
-//        driver = new ChromeDriver(options);
-//    }
     @BeforeEach
     public void startDriver() {
-        driver = new BrowserFabrika().start(ArgumentBrowser.DEFAULT);
+        driver = new BrowserFabrika().start(ArgumentBrowser.KIOSK);
 
     }
 
 
     @Test
-    public void resultTest() {
+    public void resultTest() throws InterruptedException {
 
 
 
-
+        Thread.sleep(1000);
         logger.info("Переходим по ссылке");
         driver.get("https://demo.w3layouts.com/demos_new/template_demo/03-10-2020/photoflash-liberty-demo_Free/685659620/web/index.html?_ga=2.181802926.889871791.1632394818-2083132868.1632394818");
         logger.info("Находим селектор для открытия картинки");
