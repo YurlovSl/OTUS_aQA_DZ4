@@ -31,13 +31,12 @@ public class OpenModalWindow_Test {
     }
 
     @Test
-    public void resultTest() throws InterruptedException {
+    public void resultTest() {
         logger.info("Переход по ссылке");
         driver.get(baseUrl);
         WebElement buttonModulWindow = driver.findElement(By.id("openModalBtn"));
         buttonModulWindow.click();
         logger.info("Проверка открытия модального окна");
-        Thread.sleep(5000);
         assertThat(driver.findElement(By.cssSelector(".modal-content h2")).isDisplayed());
     }
 
