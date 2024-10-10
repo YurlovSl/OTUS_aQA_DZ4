@@ -7,3 +7,4 @@ target
 *.iml
 out
 .idea/sonarlint
+logs.log
